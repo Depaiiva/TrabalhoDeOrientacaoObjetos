@@ -1,7 +1,7 @@
 # TrabalhoDeOrientacaoObjetos
 Feito por Carlos Henrique de Paiva Munis com a matricula 221022480.
 tem como objetivo de representar um sistema de uma clinica médica.
-Como Funciona a Aplicação
+Como Funciona a Aplicação:
 A aplicação é organizada em três camadas principais:
 
 Domínio (Entidades):
